@@ -1,0 +1,21 @@
+{
+  "project": {
+    "name": "spinning"
+  },
+  "apps": [
+    {
+      "root": "test",
+      "outDir": "build",
+      "index": "index.html",
+      "main": "main.ts",
+      "polyfills": "polyfills.ts",
+      "test": "test.ts",
+      "testTsconfig": "tsconfig.spec.json"
+    }
+  ],
+  "test": {
+    "karma": {
+      "config": "./karma.conf.js"
+    }
+  }
+}

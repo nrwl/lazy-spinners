@@ -1,0 +1,10 @@
+.idea
+node_modules
+dist
+tmp
+yarn.lock
+yarn-error.log
+example/node_modules
+example/dist
+example/yar.lock
+package
